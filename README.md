@@ -1,11 +1,2 @@
 # test-repo
 hiiii
-
-hellloo
-...
-.
-.
-.
-.
-.
-.
