@@ -2,60 +2,46 @@
 <items version="2" >
 
     <item
-        jar="/home/sha/AndroidStudioProjects/Validationemail/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
-        <dex dex="/home/sha/AndroidStudioProjects/Validationemail/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_e097d680f58aff16f08a3753f13be7debb0bcd55.jar" />
-    </item>
-    <item
-        jar="/home/sha/AndroidStudioProjects/Validationemail/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
-        <dex dex="/home/sha/AndroidStudioProjects/Validationemail/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_77257e0cd710f703a275430a5f284e2b533f8cf3.jar" />
-    </item>
-    <item
-        jar="/home/sha/AndroidStudioProjects/Validationemail/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
-        <dex dex="/home/sha/AndroidStudioProjects/Validationemail/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_ae77ae9b944bfd8db58fa822b392d536ce15576d.jar" />
-    </item>
-    <item
-        jar="/home/sha/AndroidStudioProjects/Validationemail/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
-        <dex dex="/home/sha/AndroidStudioProjects/Validationemail/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_71a83dcffd22682f6d45b65f2c2ded1c920b943a.jar" />
-    </item>
-    <item
-        jar="/home/sha/AndroidStudioProjects/Validationemail/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="673d77a5bbddd766037f088e775df525c46407f0">
-        <dex dex="/home/sha/AndroidStudioProjects/Validationemail/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_ecc03b4233fb69dd3d9d7853eafa9523446906e9.jar" />
-    </item>
-    <item
-        jar="/home/sha/AndroidStudioProjects/Validationemail/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.3"
-        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
-        <dex dex="/home/sha/AndroidStudioProjects/Validationemail/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_ab0b08e17453902996597584b87b9da5e19fd576.jar" />
-    </item>
-    <item
-        jar="/home/sha/AndroidStudioProjects/Validationemail/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jar="/home/sha/AndroidStudioProjects/AppIntent2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
         jumboMode="false"
         revision="23.0.3"
         sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
-        <dex dex="/home/sha/AndroidStudioProjects/Validationemail/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_8f5edb650f0e400a6603928826f949fcb6bdaf38.jar" />
+        <dex dex="/home/sha/AndroidStudioProjects/AppIntent2/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_1ac1e5afc84cf0cc6536f023898da9c2a72e8dd3.jar" />
     </item>
     <item
         jar="/home/sha/android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
         jumboMode="false"
         revision="23.0.3"
         sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
-        <dex dex="/home/sha/AndroidStudioProjects/Validationemail/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_c4ae06f15b7ae150479d293b2531bfaa244527de.jar" />
+        <dex dex="/home/sha/AndroidStudioProjects/AppIntent2/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_c4ae06f15b7ae150479d293b2531bfaa244527de.jar" />
+    </item>
+    <item
+        jar="/home/sha/AndroidStudioProjects/AppIntent2/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/sha/AndroidStudioProjects/AppIntent2/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_738ae35407bec8572a2109ee8f14deef41e8f0ec.jar" />
+    </item>
+    <item
+        jar="/home/sha/AndroidStudioProjects/AppIntent2/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/sha/AndroidStudioProjects/AppIntent2/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_db857171ff105cdea716ff7a3a9d41d78f168975.jar" />
+    </item>
+    <item
+        jar="/home/sha/AndroidStudioProjects/AppIntent2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/sha/AndroidStudioProjects/AppIntent2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_4da34f9ed96adec2f9f06ae91509bbcd6e2b5cc8.jar" />
+    </item>
+    <item
+        jar="/home/sha/AndroidStudioProjects/AppIntent2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/sha/AndroidStudioProjects/AppIntent2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_594d7da073c83fe5ef4c622a51bb4d2d02c90f7c.jar" />
     </item>
 
 </items>
