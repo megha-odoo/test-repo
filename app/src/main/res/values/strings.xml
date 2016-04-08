@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Validationemail</string>
+    <string name="lbl_register">REGISTER USER</string>
+    <string name="lbl_hintemail">Enter Email</string>
+    <string name="lbl_pass">Enter Password</string>
+    <string name="lbl_btn_signup">SIGNUP</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

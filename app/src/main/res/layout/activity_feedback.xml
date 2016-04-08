@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff9"
+    android:orientation="vertical"
+    tools:context="com.example.sha.validationemail.Feedback">
+
+    <include
+        android:id="@+id/toolfeedback"
+        layout="@layout/toolbar1" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="30dp"
+        android:text="This is users page. You can give your suggestion"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:textColor="#10cccc" />
+
+    <fragment
+        android:name="com.example.sha.validationemail.FeedbackFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </fragment>
+</LinearLayout>
